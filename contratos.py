@@ -14,7 +14,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
-def cargar_datos (archivo: str)->pd.DataFrame:
+"Cambio en doc Manuela"
+
+
+def datos_cargar_doc (archivo: str)->pd.DataFrame:
     """requerimiento 0, cargar datos
     parámetros=nombre del archivo
     """
