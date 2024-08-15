@@ -2,9 +2,10 @@
 """
 Created on Thu Dec 10 12:33:19 2020
 
-@author: mbast
+@author: mbastgi
 """
 
+"Cambio en el archivo"
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
